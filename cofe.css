@@ -1,0 +1,36 @@
+.header{
+    
+    background-color:antiquewhite;
+    font-size: 20px;
+    color: white;
+    border: 2px solid black;
+    text-align: center;
+}
+.bodycontainer{
+    
+    display:flex;
+    flex-wrap: wrap;
+    gap:20px;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    
+    
+}
+.card{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    width: 350px;
+    border-radius: 8px;
+}
+
+
+.footer{
+    background-color: bisque;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
